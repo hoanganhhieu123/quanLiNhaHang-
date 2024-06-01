@@ -1,0 +1,13 @@
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\bin\Debug\QuanLiQuanCafe.exe.config
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\bin\Debug\QuanLiQuanCafe.exe
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\bin\Debug\QuanLiQuanCafe.pdb
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanAn.csproj.AssemblyReference.cache
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.Properties.Resources.resources
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanAn.csproj.GenerateResource.cache
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanAn.csproj.CoreCompileInputs.cache
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.exe
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.pdb
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanAn.fAccountProfile.resources
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanAn.fAdmin.resources
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanAn.fLogin.resources
+D:\Winform\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanAn.fTableManager.resources
